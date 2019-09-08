@@ -10,7 +10,7 @@ public class HelloWorldController {
     @RequestMapping("/")
     @ResponseBody
     String index() {
-        return "Hello, World!";
+        return "OHAYO SEKAI, Hello World!";
     }
 
 }
